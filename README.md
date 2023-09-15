@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hopkin 
-- 👀 I’m interested in Web Developer
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning algorithm and data structure
 - 📫 How to reach me, my email is hopkinau@gmail.cm
 
